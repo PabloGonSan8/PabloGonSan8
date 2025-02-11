@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Pablo González Sánchez 
 
-<!--
-**PabloGonSan8/PabloGonSan8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador FullStack con experiencia en backend.  
+ 
+## 🛠️ Conocimientos  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
+![PL/SQL](https://img.shields.io/badge/-PL/SQL-003B57?style=flat-square&logo=oracle&logoColor=white)  
+![XML](https://img.shields.io/badge/-XML-8A2BE2?style=flat-square)  
 
-Here are some ideas to get you started:
+### **Control de Versiones:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contáctame  
+🔗 **LinkedIn:** [linkedin.com/in/pablogonzalez]([https://linkedin.com/in/pablogonzalez](https://www.linkedin.com/in/pablo-gonz%C3%A1lez-s%C3%A1nchez-8260a827a))  
