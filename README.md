@@ -18,4 +18,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
 ## 📫 Contáctame  
-🔗 **LinkedIn:** [linkedin.com/in/pablogonzalez]([https://linkedin.com/in/pablogonzalez](https://www.linkedin.com/in/pablo-gonz%C3%A1lez-s%C3%A1nchez-8260a827a))  
+🔗 **LinkedIn:** [Pablo González Sánchez](https://www.linkedin.com/in/pablo-gonz%C3%A1lez-s%C3%A1nchez-8260a827a)
