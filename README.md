@@ -12,6 +12,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
 ![PL/SQL](https://img.shields.io/badge/-PL/SQL-003B57?style=flat-square&logo=oracle&logoColor=white)  
 ![XML](https://img.shields.io/badge/-XML-8A2BE2?style=flat-square)  
+![Astro](https://img.shields.io/badge/-Astro-290F4D?style=flat-square&logo=astro&logoColor=white)
+
 
 ### **Control de Versiones:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
