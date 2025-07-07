@@ -9,6 +9,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 Informacion sobre campeones y objetos de League of Legends, realizando llamadas a su propia API.
+
 ---
 
 ### 🔢 [Generador de Números](https://generador-numeros.vercel.app/)
