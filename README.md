@@ -17,7 +17,7 @@ Informacion sobre campeones y objetos de League of Legends, realizando llamadas 
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-Aplicación de código abierto que combina frontend moderno con **Astro y Tailwind** y backend robusto con **Spring Boot y SQL**. Se trata de una API de españa, con una pagina web orientada sobre todo a la documentacion, hecha de codigo abierto.
+Se trata de una API de españa, con una pagina web orientada sobre todo a la documentacion, hecha de codigo abierto.
 ---
 
 ### 🔢 [Generador de Números](https://generador-numeros.vercel.app/)
