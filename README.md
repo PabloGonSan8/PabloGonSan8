@@ -2,7 +2,7 @@
 
 💻 FullStack Developer with experience in backend.  
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 📊 [ChallengerStats](https://challengerstats.vercel.app/)
 ![Astro](https://img.shields.io/badge/-Astro-290F4D?style=flat-square&logo=astro&logoColor=white)
@@ -19,6 +19,14 @@ Information about League of Legends champions and items, making calls to its own
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 Online game based on the famous “Cifras y Letras” TV show.
+---
+
+### 📦 [WPT Inspector (VS Code Extension)](https://marketplace.visualstudio.com/items?itemName=PabloGonSan8.wptinspector)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code%20API-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+Official Visual Studio Code extension for real-time Web Performance analysis. It estimates production bundle sizes directly in the editor.
 ---
 
 ### 🇪🇸 [Spain](https://github.com/PabloGonSan8/Spain) *(Open Source)*
@@ -56,26 +64,44 @@ Web application to manage your shopping list.
 
 ---
 
-## 🛠️ Skills  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  
-![XML](https://img.shields.io/badge/-XML-8A2BE2?style=flat-square)  
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)  
-![Astro](https://img.shields.io/badge/-Astro-290F4D?style=flat-square&logo=astro&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+## 🛠️ Tech Stack & Skills
 
+### 🌐 Frontend & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/-Astro-290F4D?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-## 🛢️ Databases
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
-![PL/SQL](https://img.shields.io/badge/-PL/SQL-003B57?style=flat-square&logo=oracle&logoColor=white)  
+### ⚙️ Backend & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-## 🌳 Version Control  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+### 🛢️ Databases & Storage
+<p align="left">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PL/SQL-003B57?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+## 🌳 Version Control & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+</p>
 
 ## 📫 Contact Me  
 🔗 **LinkedIn:** [Pablo González Sánchez](https://www.linkedin.com/in/pablo-gonz%C3%A1lez-s%C3%A1nchez-8260a827a)
+
+## ❤️ Support my work
+If you find my projects or extensions useful, consider supporting my work. Every coffee helps me keep creating and maintaining open-source tools!
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/TuUsuario)
