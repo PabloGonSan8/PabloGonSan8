@@ -104,4 +104,4 @@ Web application to manage your shopping list.
 ## ❤️ Support my work
 If you find my projects or extensions useful, consider supporting my work. Every coffee helps me keep creating and maintaining open-source tools!
 
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/TuUsuario)
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/PabloGonSan)
