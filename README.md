@@ -3,6 +3,13 @@
 💻 FullStack Developer with experience in backend.  
 
 ## 🚀 Featured Projects
+### 🎵 [Bolerox](https://www.bolerox.com/)
+![Astro](https://img.shields.io/badge/-Astro-290F4D?style=flat-square&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+App for musician to log their concerts and gigs
+
 
 ### 📊 [ChallengerStats](https://challengerstats.vercel.app/)
 ![Astro](https://img.shields.io/badge/-Astro-290F4D?style=flat-square&logo=astro&logoColor=white)
