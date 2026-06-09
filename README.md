@@ -3,6 +3,13 @@
 💻 FullStack Developer with experience in backend.  
 
 ## 🚀 Featured Projects
+### 🌐 [Personal Portfolio](https://pablogonsan-dev.netlify.app/)
+![Astro](https://img.shields.io/badge/-Astro-290F4D?style=flat-square&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+My personal portfolio where I showcase my projects, experience, technical skills, and professional journey as a FullStack Developer.
+---
 ### 🥍 [Padelxio](https://padelxio.netlify.app/)
 ![Astro](https://img.shields.io/badge/-Astro-290F4D?style=flat-square&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
