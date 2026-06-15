@@ -43,13 +43,6 @@ Information about League of Legends champions and items, making calls to its own
 Online game based on the famous “Cifras y Letras” TV show.
 ---
 
-### 🎲 [Garito](https://garito.pablogonsan02.workers.dev/)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-Dice roguelike game where you roll, keep, reroll, buy amulets, and beat boss garitos.
----
-
 ### 🚦 [TrafficOdds](https://trafficodds.netlify.app/)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
