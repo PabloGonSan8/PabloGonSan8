@@ -3,6 +3,13 @@
 💻 FullStack Developer with experience in backend.  
 
 ## 🚀 Featured Projects
+### ⚔️ [MonteCaz](https://github.com/PabloGonSan8/MonteCaz)
+![Phaser](https://img.shields.io/badge/-Phaser%203-0A3D62?style=flat-square&logo=phaser&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+RPG de acción en pixel-art con generación procedural de mundos. Explora biomas, limpia campamentos de bichos, sube de nivel y asciende a nuevos mundos.
+---
 ### 💸 [GastosApp](https://gastosappmodern.vercel.app/)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
