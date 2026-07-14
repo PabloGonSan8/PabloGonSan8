@@ -2,6 +2,31 @@
 
 💻 FullStack Developer with experience in backend.  
 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/PabloGonSan8">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloGonSan8&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloGonSan8&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PabloGonSan8">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloGonSan8&theme=radical"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PabloGonSan8">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloGonSan8&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
+  </a>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 ### ⚔️ [MonteCaz](https://github.com/PabloGonSan8/MonteCaz)
 ![Phaser](https://img.shields.io/badge/-Phaser%203-0A3D62?style=flat-square&logo=phaser&logoColor=white)
@@ -106,6 +131,19 @@ Application to generate numbers, similar to a bingo number draw.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 Web application to manage your shopping list.
+
+---
+
+## ⚡ Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/PabloGonSan8/PabloGonSan8/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
