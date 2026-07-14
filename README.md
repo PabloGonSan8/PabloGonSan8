@@ -4,18 +4,11 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/PabloGonSan8">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloGonSan8&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloGonSan8&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/PabloGonSan8">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloGonSan8&theme=radical"/>
+    <img src="https://streak-stats.demolab.com?user=PabloGonSan8&theme=radical&border_radius=5"/>
   </a>
 </p>
 
@@ -140,11 +133,6 @@ Web application to manage your shopping list.
 <!--RECENT_ACTIVITY:end-->
 
 ---
-
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/PabloGonSan8/PabloGonSan8/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 ## 🛠️ Tech Stack & Skills
