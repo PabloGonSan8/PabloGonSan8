@@ -129,8 +129,8 @@ Web application to manage your shopping list.
 
 ## ⚡ Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 ---
