@@ -21,7 +21,14 @@
 ---
 
 ## 🚀 Featured Projects
-### ⚔️ [MonteCaz](https://montecaz.netlify.app/)
+### 🚗 [Kilometra](https://kilocarmeter.vercel.app/)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+Personal car mileage tracker: log odometer readings, watch your renting mileage limit, and know your monthly margin at a glance.
+---
+### ⚔️ [MonteCaz](https://pablogonsan.itch.io/montecaz)
 ![Phaser](https://img.shields.io/badge/-Phaser%203-0A3D62?style=flat-square&logo=phaser&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -43,12 +50,12 @@ App to track expenses and income, with category summaries, budgets, month-end fo
 
 My personal portfolio where I showcase my projects, experience, technical skills, and professional journey as a FullStack Developer.
 ---
-### 🥍 [Padelxio](https://padelxio.netlify.app/)
+### 🥍 Padelxio 🚧 *(under maintenance)*
 ![Astro](https://img.shields.io/badge/-Astro-290F4D?style=flat-square&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-Social media platform for padel enthusiasts.
+Social media platform for padel enthusiasts. Currently offline for maintenance — no public demo available.
 ---
 ### 🎵 [Bolerox](https://www.bolerox.com/)
 ![Astro](https://img.shields.io/badge/-Astro-290F4D?style=flat-square&logo=astro&logoColor=white)
