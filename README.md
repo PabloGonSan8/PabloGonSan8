@@ -21,6 +21,12 @@
 ---
 
 ## 🚀 Featured Projects
+### 🌐 [Personal Portfolio](https://pablogonsan-dev.netlify.app/)
+![Astro](https://img.shields.io/badge/-Astro-290F4D?style=flat-square&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+My personal portfolio where I showcase my projects, experience, technical skills, and professional journey as a FullStack Developer.
 ### 🚗 [Kilometra](https://kilocarmeter.vercel.app/)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -50,13 +56,7 @@ RPG de acción en pixel-art con generación procedural de mundos. Explora biomas
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 App to track expenses and income, with category summaries, budgets, month-end forecast, and shared household spending. Installable as a PWA.
----
-### 🌐 [Personal Portfolio](https://pablogonsan-dev.netlify.app/)
-![Astro](https://img.shields.io/badge/-Astro-290F4D?style=flat-square&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-My personal portfolio where I showcase my projects, experience, technical skills, and professional journey as a FullStack Developer.
 ---
 ### 🥍 Padelxio 🚧 *(under maintenance)*
 ![Astro](https://img.shields.io/badge/-Astro-290F4D?style=flat-square&logo=astro&logoColor=white)
