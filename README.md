@@ -28,6 +28,14 @@
 
 Personal car mileage tracker: log odometer readings, watch your renting mileage limit, and know your monthly margin at a glance.
 ---
+### 🕵️ [Tránsito](https://pablogonsan.itch.io/transito)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+Juego narrativo de investigación criminal con casos generados proceduralmente. Examina pruebas, contrasta coartadas y resuelve el misterio con una única acusación.
+---
 ### ⚔️ [MonteCaz](https://pablogonsan.itch.io/montecaz)
 ![Phaser](https://img.shields.io/badge/-Phaser%203-0A3D62?style=flat-square&logo=phaser&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
