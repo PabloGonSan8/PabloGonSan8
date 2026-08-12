@@ -153,8 +153,8 @@ Web application to manage your shopping list.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/PabloGonSan8/TrafficOdds/pull/5) in [PabloGonSan8/TrafficOdds](https://github.com/PabloGonSan8/TrafficOdds)
-2. 💪 Opened PR [#5](https://github.com/PabloGonSan8/TrafficOdds/pull/5) in [PabloGonSan8/TrafficOdds](https://github.com/PabloGonSan8/TrafficOdds)
+1. 🎉 Merged PR [#6](https://github.com/PabloGonSan8/TrafficOdds/pull/6) in [PabloGonSan8/TrafficOdds](https://github.com/PabloGonSan8/TrafficOdds)
+2. 💪 Opened PR [#6](https://github.com/PabloGonSan8/TrafficOdds/pull/6) in [PabloGonSan8/TrafficOdds](https://github.com/PabloGonSan8/TrafficOdds)
 <!--END_SECTION:activity-->
 
 ---
