@@ -99,7 +99,7 @@ Online game based on the famous “Cifras y Letras” TV show.
 Virtual points betting game based on simulated traffic, with dynamic odds and surprise events.
 ---
 
-### ⚽ [NOVENTA](https://noventa-bka.pages.dev/)
+### ⚽ [NOVENTA](https://pablogonsan.itch.io/noventa)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
