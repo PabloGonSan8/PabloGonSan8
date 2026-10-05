@@ -21,6 +21,12 @@
 ---
 
 ## 🚀 Featured Projects
+### 🗺️ [Verdemap](https://verdemap.vercel.app/)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+Travel map of Spanish provinces and countries worldwide, with recommendations for monuments, restaurants, bars and accommodation.
+---
 ### 🚗 [Kilometra](https://kilocarmeter.vercel.app/)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
