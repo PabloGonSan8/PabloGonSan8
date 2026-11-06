@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://pablogonsan-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/pablo-gonz%C3%A1lez-s%C3%A1nchez-8260a827a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
-  <a href="https://pablogonsan.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
 </p>
 
 ---
