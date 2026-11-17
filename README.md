@@ -100,6 +100,8 @@ Apps that work together. **Daylace** is the hub: it pulls data from GastosApp an
 
 **Databases**
 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-C74634?style=for-the-badge)
 
