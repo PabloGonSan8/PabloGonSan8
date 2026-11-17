@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://pablogonsan-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/pablo-gonz%C3%A1lez-s%C3%A1nchez-8260a827a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
-  <a href="https://pablogonsan.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
 </p>
 
 ---
@@ -71,8 +70,8 @@ Apps that work together. **Daylace** is the hub: it pulls data from GastosApp an
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/PabloGonSan8/TrafficOdds/pull/6) in [PabloGonSan8/TrafficOdds](https://github.com/PabloGonSan8/TrafficOdds)
-2. 💪 Opened PR [#6](https://github.com/PabloGonSan8/TrafficOdds/pull/6) in [PabloGonSan8/TrafficOdds](https://github.com/PabloGonSan8/TrafficOdds)
+1. 🚀 Published release [PdfMusicCraft 1.1.1](https://github.com/PabloGonSan8/pdfmusiccraft/releases/tag/1.1.1) in [PabloGonSan8/pdfmusiccraft](https://github.com/PabloGonSan8/pdfmusiccraft)
+2. 🎉 Merged PR [#3](https://github.com/PabloGonSan8/pdfmusiccraft/pull/3) in [PabloGonSan8/pdfmusiccraft](https://github.com/PabloGonSan8/pdfmusiccraft)
 <!--END_SECTION:activity-->
 
 ---
