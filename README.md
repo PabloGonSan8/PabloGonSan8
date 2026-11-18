@@ -26,13 +26,14 @@
 
 ## 🔗 Daylace Ecosystem
 
-Apps that work together. **Daylace** is the hub: it pulls data from GastosApp and Kilometra into a single daily dashboard.
+Apps that work together. **Daylace** is the hub: it pulls data from GastosApp, Kilometra and Cuadreo into a single daily dashboard.
 
 | Project | Description | Stack |
 |---|---|---|
 | 📅 **[Daylace](https://daylace.vercel.app/)** | Your day in one screen: Google Calendar, tasks, notes, expenses and car. Reminders, daily summary and push notifications. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) |
 | 💸 **[GastosApp](https://gastosappmodern.vercel.app/)** | Expense & income tracker with category summaries, budgets, month-end forecast and shared household spending. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 | 🚗 **[Kilometra](https://kilocarmeter.vercel.app/)** | Car mileage tracker: log odometer readings, watch your renting limit and know your monthly margin at a glance. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) |
+| 🗓️ **[Cuadreo](https://cuadreo.vercel.app/)** | Staff shift scheduling for small teams: feed it your rules, availability and daily coverage and it proposes a valid, fair roster. Each employee only sees their own published shifts. Integrated with Daylace. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) |
 
 ## 🌐 Web Apps
 
