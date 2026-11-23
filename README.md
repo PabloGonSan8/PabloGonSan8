@@ -73,8 +73,8 @@ Apps that work together. **Daylace** is the hub: it pulls data from GastosApp, K
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [PdfMusicCraft 1.1.1](https://github.com/PabloGonSan8/pdfmusiccraft/releases/tag/1.1.1) in [PabloGonSan8/pdfmusiccraft](https://github.com/PabloGonSan8/pdfmusiccraft)
-2. 🎉 Merged PR [#3](https://github.com/PabloGonSan8/pdfmusiccraft/pull/3) in [PabloGonSan8/pdfmusiccraft](https://github.com/PabloGonSan8/pdfmusiccraft)
+1. 🗣 Commented on [#1](https://github.com/PabloGonSan8/rayo-terminal/pull/1#issuecomment-7102423654) in [PabloGonSan8/rayo-terminal](https://github.com/PabloGonSan8/rayo-terminal)
+2. 🗣 Commented on [#3](https://github.com/PabloGonSan8/rayo-terminal/pull/3#issuecomment-7102418699) in [PabloGonSan8/rayo-terminal](https://github.com/PabloGonSan8/rayo-terminal)
 <!--END_SECTION:activity-->
 
 ---
