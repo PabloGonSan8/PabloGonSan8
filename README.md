@@ -73,8 +73,8 @@ Apps that work together. **Daylace** is the hub: it pulls data from GastosApp, K
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/PabloGonSan8/rayo-terminal/pull/1#issuecomment-7102423654) in [PabloGonSan8/rayo-terminal](https://github.com/PabloGonSan8/rayo-terminal)
-2. 🗣 Commented on [#3](https://github.com/PabloGonSan8/rayo-terminal/pull/3#issuecomment-7102418699) in [PabloGonSan8/rayo-terminal](https://github.com/PabloGonSan8/rayo-terminal)
+1. 🚀 Published release [0.2.0](https://github.com/PabloGonSan8/rayo-terminal/releases/tag/v0.2.0) in [PabloGonSan8/rayo-terminal](https://github.com/PabloGonSan8/rayo-terminal)
+2. 🎉 Merged PR [#6](https://github.com/PabloGonSan8/rayo-terminal/pull/6) in [PabloGonSan8/rayo-terminal](https://github.com/PabloGonSan8/rayo-terminal)
 <!--END_SECTION:activity-->
 
 ---
