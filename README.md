@@ -73,8 +73,8 @@ Apps that work together. **Daylace** is the hub: it pulls data from GastosApp, K
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#7](https://github.com/PabloGonSan8/windows-wireless-battery-monitor/issues/7) in [PabloGonSan8/windows-wireless-battery-monitor](https://github.com/PabloGonSan8/windows-wireless-battery-monitor)
-2. ❗ Opened issue [#7](https://github.com/PabloGonSan8/windows-wireless-battery-monitor/issues/7) in [PabloGonSan8/windows-wireless-battery-monitor](https://github.com/PabloGonSan8/windows-wireless-battery-monitor)
+1. ℹ️ Labeled issue [#7](https://github.com/PabloGonSan8/pdfmusiccraft/issues/7) in [PabloGonSan8/pdfmusiccraft](https://github.com/PabloGonSan8/pdfmusiccraft)
+2. ❗ Opened issue [#7](https://github.com/PabloGonSan8/pdfmusiccraft/issues/7) in [PabloGonSan8/pdfmusiccraft](https://github.com/PabloGonSan8/pdfmusiccraft)
 <!--END_SECTION:activity-->
 
 ---
